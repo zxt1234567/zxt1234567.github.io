@@ -19,25 +19,21 @@ Publication
 
 **CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems under Continual Temporal Tasks**<br>
 Jan 2025-Now<br>
-*Xintong Zhang*, Junfeng Chen*, Yuxiao Zhu, Meng Guo<br>
+**Xintong Zhang**\*, Junfeng Chen\*, Yuxiao Zhu, Meng Guo<br>
 Robotics and Automation Letter (RAL) (In preparation)<br>
-Supervisor: Pro.Meng Guo, Peking University<br>
 Overview: Propose CoCoPlan, a collaborative framework addressing communication-aware task planning for multi-robot systems under intermittent connectivity constraints. The framework focuses on joint optimization of communication events and task allocation, ensuring robustness in unknown environments.
 
 **DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models**<br>
 Dec 2024-March 2025<br>
-Yuxiao Zhu*, Junfeng Chen*, *Xintong Zhang*, Meng Guo, Zhongkui Li<br>
+Yuxiao Zhu\*, Junfeng Chen\*, **Xintong Zhang**, Meng Guo, Zhongkui Li<br>
 International Conference on Intelligent Robots (IROS) (Under Review)<br>
-Supervisor: Pro.Meng Guo, Peking University<br>
-Overview: Propose DEXTER-LLM, a framework integrating LLMs with MILP optimization for dynamic task planning and coordination for  heterogeneous multi-robot systems in unknown environments.
-Contribution: Design a versatile task coordination framework for heterogeneous multi-robot systems in open and unknown environments, which is generalizable, verifiable, explainable and scalable. Integrate LLMs and the model-based task planner, which paves the way for new applications in openworld automated task planning.
+[website](https://tcxm.github.io/DEXTER-LLM/)
 
 **SLEI3D: Simultaneous Large-scale 3D Exploration Inspection and Interaction via Heterogeneous Fleets under Limited Communication**<br>
 June-Dec 2024<br>
-Junfeng Chen, Yuxiao Zhu, *Xintong Zhang*, Meng<br>
+Junfeng Chen, Yuxiao Zhu, **Xintong Zhang**, Meng Guo<br>
 Transactions on Automation Science and Engineering (TASE) (Under Review)<br>
-Supervisor: Pro.Meng Guo, Peking University<br>
-Overview: Propose SLEI3D, a framework for large-scale 3D exploration, inspection, and interaction using heterogeneous robotic fleets (UAVs/UGVs) under limited Line-of-Sight (LOS) communication, which addressed challenges of dynamic task allocation and intermittent communication in unknown environments.
+[website](https://junfengchen-robotics.github.io/SLEI3D/)
 
 CV
 ======
