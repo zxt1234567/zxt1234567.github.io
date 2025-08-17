@@ -26,7 +26,7 @@ Overview: Propose CoCoPlan, a collaborative framework addressing communication-a
 **DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models**<br>
 Dec 2024-March 2025<br>
 Yuxiao Zhu\*, Junfeng Chen\*, **Xintong Zhang**, Meng Guo, Zhongkui Li<br>
-International Conference on Intelligent Robots (IROS) (Under Review)<br>
+International Conference on Intelligent Robots (IROS) (Accepted)<br>
 [website](https://tcxm.github.io/DEXTER-LLM/)
 
 **SLEI3D: Simultaneous Large-scale 3D Exploration Inspection and Interaction via Heterogeneous Fleets under Limited Communication**<br>
