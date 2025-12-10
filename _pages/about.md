@@ -19,7 +19,7 @@ Publication
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px; gap: 20px;">
   <div style="flex-shrink: 0;">
-    <img src="/paper_figure/SR.png" alt="Article Image" style="width: 150px; border-radius: 4px;">
+    <img src="/paper_figure/SR.png" alt="Article Image" style="width: 210px; border-radius: 4px;">
   </div>
   <div style="flex-grow: 1;">
     <strong style="font-size: 1.1em;">LLMs Meet Formal Methods for Robot Swarms: Reliable, Explainable and Efficient Human-in-the-loop Planning in Unknown Environments</strong><br>
@@ -32,7 +32,7 @@ Publication
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px; gap: 20px;">
   <div style="flex-shrink: 0;">
-    <img src="/paper_figure/cocoplan.png" alt="Article Image" style="width: 150px; border-radius: 4px;">
+    <img src="/paper_figure/cocoplan.png" alt="Article Image" style="width: 210px; border-radius: 4px;">
   </div>
   <div style="flex-grow: 1;">
     <strong style="font-size: 1.1em;">CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems under Continual Temporal Tasks</strong><br>
@@ -46,7 +46,7 @@ Publication
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px; gap: 20px;">
   <div style="flex-shrink: 0;">
-    <img src="/paper_figure/iros.png" alt="Article Image" style="width: 150px; border-radius: 4px;">
+    <img src="/paper_figure/iros.png" alt="Article Image" style="width: 210px; border-radius: 4px;">
   </div>
   <div style="flex-grow: 1;">
     <strong style="font-size: 1.1em;">DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models</strong><br>
@@ -60,7 +60,7 @@ Publication
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px; gap: 20px;">
   <div style="flex-shrink: 0;">
-    <img src="/paper_figure/slei3d.png" alt="Article Image" style="width: 150px; border-radius: 4px;">
+    <img src="/paper_figure/slei3d.png" alt="Article Image" style="width: 210px; border-radius: 4px;">
   </div>
   <div style="flex-grow: 1;">
     <strong style="font-size: 1.1em;">SLEI3D: Simultaneous Large-scale 3D Exploration Inspection and Interaction via Heterogeneous Fleets under Limited Communication</strong><br>
