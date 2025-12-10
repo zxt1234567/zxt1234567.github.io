@@ -24,7 +24,7 @@ Publication
   <div style="flex-grow: 1;">
     <strong style="font-size: 1.1em;">LLMs Meet Formal Methods for Robot Swarms: Reliable, Explainable and Efficient Human-in-the-loop Planning in Unknown Environments</strong><br>
     Junfeng Chen, Yuxiao Zhu, An Zhuo, <strong>Xintong Zhang</strong>, Shuo Zhang, Meng Guo#, and Zhongkui Li#<br>
-    Science Robotics (Under Review)<br>
+    Submitted to Science Robotics<br>
     <a href="https://www.youtube.com/watch?v=dwQUosh9Kds">video</a><br>
     <strong>Overview:</strong> We propose a formal method and LLM framework for coordinating large fleets of heterogeneous robots in open and dynamic environments. Our approach integrates model-checking-based task planning with LLM-powered reasoning and interaction, ensuring adaptability, explainability, and optimal mission execution. Validated through simulations and real-world deployments, it proves effective for disaster response, infrastructure inspection, and dynamic surveillance.
   </div>
@@ -38,7 +38,7 @@ Publication
     <strong style="font-size: 1.1em;">CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems under Continual Temporal Tasks</strong><br>
     Jan 2025-Now<br>
     <strong>Xintong Zhang</strong>*, Junfeng Chen*, Yuxiao Zhu, Meng Guo<br>
-    Robotics and Automation Letter (RAL) (Under Review)<br>
+    Submitted to Robotics and Automation Letter (RAL)<br>
     <a href="https://zxt1234567.github.io/CoCoPlan-HomePage/">website</a><br>
     <strong>Overview:</strong> We propose CoCoPlan, a collaborative framework addressing communication-aware task planning for multi-robot systems under intermittent connectivity constraints. The framework focuses on joint optimization of communication events and task allocation, ensuring robustness in unknown environments.
   </div>
