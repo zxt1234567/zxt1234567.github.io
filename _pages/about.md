@@ -36,9 +36,9 @@ Publication
   </div>
   <div style="flex-grow: 1;">
     <strong style="font-size: 1.1em;">CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems under Continual Temporal Tasks</strong><br>
-    Jan 2025-Now<br>
+    Jan 2025-August 2025<br>
     <strong>Xintong Zhang</strong>*, Junfeng Chen*, Yuxiao Zhu, Meng Guo<br>
-    Submitted to Robotics and Automation Letter (RAL)<br>
+    Submitted to Robotics and Automation Letter (RAL) (Accepted)<br>
     <a href="https://zxt1234567.github.io/CoCoPlan-HomePage/">website</a><br>
     <strong>Overview:</strong> We propose CoCoPlan, a collaborative framework addressing communication-aware task planning for multi-robot systems under intermittent connectivity constraints. The framework focuses on joint optimization of communication events and task allocation, ensuring robustness in unknown environments.
   </div>
