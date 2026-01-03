@@ -37,7 +37,7 @@ Publication
   <div style="flex-grow: 1;">
     <strong style="font-size: 1.1em;">CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems under Continual Temporal Tasks</strong><br>
     Jan 2025-August 2025<br>
-    <strong>Xintong Zhang</strong>*, Junfeng Chen*, Yuxiao Zhu, Meng Guo<br>
+    <strong>Xintong Zhang</strong>*, Junfeng Chen*, Yuxiao Zhu, Bing Luo, Meng Guo<br>
     Submitted to Robotics and Automation Letter (RAL) (Accepted)<br>
     <a href="https://zxt1234567.github.io/CoCoPlan-HomePage/">website</a><br>
     <strong>Overview:</strong> We propose CoCoPlan, a collaborative framework addressing communication-aware task planning for multi-robot systems under intermittent connectivity constraints. The framework focuses on joint optimization of communication events and task allocation, ensuring robustness in unknown environments.
@@ -65,7 +65,7 @@ Publication
   <div style="flex-grow: 1;">
     <strong style="font-size: 1.1em;">SLEI3D: Simultaneous Large-scale 3D Exploration Inspection and Interaction via Heterogeneous Fleets under Limited Communication</strong><br>
     June-Dec 2024<br>
-    Junfeng Chen, Yuxiao Zhu, <strong>Xintong Zhang</strong>, Meng Guo<br>
+    Junfeng Chen, Yuxiao Zhu, <strong>Xintong Zhang</strong>, Bing Luo, Meng Guo<br>
     Transactions on Automation Science and Engineering (TASE) (Accepted)<br>
     <a href="https://junfengchen-robotics.github.io/SLEI3D/">website</a><br>
     <strong>Overview:</strong> We propose SLEI3D, a planning and coordination framework for heterogeneous multi-robot systems to perform simultaneous 3D exploration, inspection, and real-time reporting in unknown environments. Our approach integrates adaptive inspection and intermittent communication protocols with a multi-layer, multi-rate planning mechanism for robust coordination.
