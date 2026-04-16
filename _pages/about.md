@@ -39,7 +39,7 @@ Publication
     Jan 2025-August 2025<br>
     <strong>Xintong Zhang</strong>*, Junfeng Chen*, Yuxiao Zhu, Bing Luo, Meng Guo<br>
     Submitted to Robotics and Automation Letter (RAL) (Accepted)<br>
-    <a href="https://zxt1234567.github.io/CoCoPlan-Homepage/">website</a><br>
+    <a href="https://zxt1234567.github.io/CoCoPlan-HomePage/">website</a><br>
     <strong>Overview:</strong> We propose CoCoPlan, a collaborative framework addressing communication-aware task planning for multi-robot systems under intermittent connectivity constraints. The framework focuses on joint optimization of communication events and task allocation, ensuring robustness in unknown environments.
   </div>
 </div>
