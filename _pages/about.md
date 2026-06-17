@@ -55,7 +55,7 @@ Publication
     Dec 2024-March 2025<br>
     Yuxiao Zhu*, Junfeng Chen*, <strong>Xintong Zhang</strong>, Meng Guo, Zhongkui Li<br>
     International Conference on Intelligent Robots (IROS) (Accepted)<br>
-    <a href="extension://ngbkcglbmlglgldjfcnhaijeecaccgfi/https://arxiv.org/pdf/2508.14387">Paper</a>
+    <a href="https://arxiv.org/pdf/2508.14387">Paper</a>
     <a href="https://tcxm.github.io/DEXTER-LLM/">Website</a><br>
     <strong>Overview:</strong> We propose DEXTER-LLM, a novel framework for dynamic task planning in unknown environments. Our approach integrates LLM-based multi-stage reasoning, optimization-based task assignment, and adaptive human-in-the-loop verification to tackle the challenges of online adaptability and explainability.
   </div>
