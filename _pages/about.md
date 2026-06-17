@@ -23,9 +23,9 @@ Publication
   </div>
   <div style="flex-grow: 1;">
     <strong style="font-size: 1.1em;">LLMs Meet Formal Methods for Robot Swarms: Reliable, Explainable and Efficient Human-in-the-loop Planning in Unknown Environments</strong><br>
-    Junfeng Chen, Yuxiao Zhu, An Zhuo, <strong>Xintong Zhang</strong>, Shuo Zhang, Meng Guo#, and Zhongkui Li#<br>
+    Junfeng Chen, Yuxiao Zhu, An Zhuo, <strong>Xintong Zhang</strong>, Shuo Zhang, Meng Guo, and Zhongkui Li<br>
     Submitted to Science Robotics<br>
-    <a href="https://www.youtube.com/watch?v=dwQUosh9Kds">video</a><br>
+    <a href="https://www.youtube.com/watch?v=dwQUosh9Kds">Video</a><br>
     <strong>Overview:</strong> We propose a formal method and LLM framework for coordinating large fleets of heterogeneous robots in open and dynamic environments. Our approach integrates model-checking-based task planning with LLM-powered reasoning and interaction, ensuring adaptability, explainability, and optimal mission execution. Validated through simulations and real-world deployments, it proves effective for disaster response, infrastructure inspection, and dynamic surveillance.
   </div>
 </div>
@@ -38,8 +38,10 @@ Publication
     <strong style="font-size: 1.1em;">CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems under Continual Temporal Tasks</strong><br>
     Jan 2025-August 2025<br>
     <strong>Xintong Zhang</strong>*, Junfeng Chen*, Yuxiao Zhu, Bing Luo, Meng Guo<br>
-    Submitted to Robotics and Automation Letter (RAL) (Accepted)<br>
-    <a href="https://zxt1234567.github.io/CoCoPlan-HomePage/">website</a><br>
+    Robotics and Automation Letter (RAL) (Accepted)<br>
+    <a href="https://arxiv.org/pdf/2601.10116">Paper</a>
+    <a href="https://www.youtube.com/watch?v=45NcWNtqBwI">Video</a>
+    <a href="https://zxt1234567.github.io/CoCoPlan-HomePage/">Website</a><br>
     <strong>Overview:</strong> We propose CoCoPlan, a collaborative framework addressing communication-aware task planning for multi-robot systems under intermittent connectivity constraints. The framework focuses on joint optimization of communication events and task allocation, ensuring robustness in unknown environments.
   </div>
 </div>
@@ -53,7 +55,8 @@ Publication
     Dec 2024-March 2025<br>
     Yuxiao Zhu*, Junfeng Chen*, <strong>Xintong Zhang</strong>, Meng Guo, Zhongkui Li<br>
     International Conference on Intelligent Robots (IROS) (Accepted)<br>
-    <a href="https://tcxm.github.io/DEXTER-LLM/">website</a> <a href="extension://ngbkcglbmlglgldjfcnhaijeecaccgfi/https://arxiv.org/pdf/2508.14387">pdf</a><br>
+    <a href="extension://ngbkcglbmlglgldjfcnhaijeecaccgfi/https://arxiv.org/pdf/2508.14387">Paper</a>
+    <a href="https://tcxm.github.io/DEXTER-LLM/">Website</a><br>
     <strong>Overview:</strong> We propose DEXTER-LLM, a novel framework for dynamic task planning in unknown environments. Our approach integrates LLM-based multi-stage reasoning, optimization-based task assignment, and adaptive human-in-the-loop verification to tackle the challenges of online adaptability and explainability.
   </div>
 </div>
@@ -67,7 +70,8 @@ Publication
     June-Dec 2024<br>
     Junfeng Chen, Yuxiao Zhu, <strong>Xintong Zhang</strong>, Bing Luo, Meng Guo<br>
     Transactions on Automation Science and Engineering (TASE) (Accepted)<br>
-    <a href="https://junfengchen-robotics.github.io/SLEI3D/">website</a><br>
+    <a href="https://arxiv.org/pdf/2601.00163">Paper</a>
+    <a href="https://junfengchen-robotics.github.io/SLEI3D/">Website</a><br>
     <strong>Overview:</strong> We propose SLEI3D, a planning and coordination framework for heterogeneous multi-robot systems to perform simultaneous 3D exploration, inspection, and real-time reporting in unknown environments. Our approach integrates adaptive inspection and intermittent communication protocols with a multi-layer, multi-rate planning mechanism for robust coordination.
   </div>
 </div>
