@@ -19,7 +19,7 @@ Previously, I worked on Multi-Agent Collaboration, under the supervision of [Dr.
 My research interests lie at the intersection of **Embodied AI**, **Multimodal Learning**, and **Robotics**. I am particularly interested in developing intelligent agents capable of perceiving complex environments, reasoning about future states, and making reliable decisions. My current research focuses on Vision-Language Navigation and Learning-based Planning, with previous experience in LLM based Multi-Agent Coordination and Collaboration.
 
 Publication
-==
+=====
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px; gap: 20px;">
   <div style="flex-shrink: 0;">
@@ -147,15 +147,21 @@ Experiences
 Honors and Awards
 ======
 **[2024.04]** National-Level College Student Innovation and Entrepreneurship Project - Organizing Committee of the Jiangsu Provincial College Student Innovation and Entrepreneurship Outstanding Achievement Exchange and Exhibition
+
 **[2025.04]** Student Experiential Learning Fellow (SELF) – Duke Kunshan University
+
 **[2025.04]** Signature Fund (SF) – Duke Kunshan University
+
 **[2025.12]** National Encouragement Scholarship - Jiangsu Provincial Department of Education
+
 **[2023-2026]** Dean's List – Duke Kunshan University
 
 Services
 ======
 **Reviewer**: RAL
+
 **Conference Participation**: IROS 2025, ICRA 2026
+
 **Teaching Assistant**: DKU COMPSCI101: Introduction into Computer Science (2024 Fall)
 
 CV
