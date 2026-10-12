@@ -146,7 +146,8 @@ Experiences
 
 Honors and Awards
 ======
-**[2024.04]** National-Level College Student Innovation and Entrepreneurship Project - Organizing Committee of the Jiangsu Provincial College Student Innovation and Entrepreneurship Outstanding Achievement Exchange and Exhibition<br>
+**[2024.04]** National-Level College Student Innovation and Entrepreneurship Project<br>
+<!-- - Organizing Committee of the Jiangsu Provincial College Student Innovation and Entrepreneurship Outstanding Achievement Exchange and Exhibition<br> -->
 **[2025.04]** Student Experiential Learning Fellow (SELF) – Duke Kunshan University<br>
 **[2025.04]** Signature Fund (SF) – Duke Kunshan University<br>
 **[2025.12]** National Encouragement Scholarship - Jiangsu Provincial Department of Education<br>
