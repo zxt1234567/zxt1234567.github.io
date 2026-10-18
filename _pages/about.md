@@ -161,4 +161,4 @@ Services
 
 CV
 ======
-See [here](https://zxt1234567.github.io/CV/CV-Xintong_Zhang_6.pdf)
+See [here](https://zxt1234567.github.io/CV/CV-Xintong_Zhang.pdf)
